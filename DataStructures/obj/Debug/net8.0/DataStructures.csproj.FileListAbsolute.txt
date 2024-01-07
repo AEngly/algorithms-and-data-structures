@@ -1,0 +1,15 @@
+/Users/andreasengly/Documents/Danmarks Tekniske Universitet/Portfolio for GitHub/C#/algorithms-and-data-structures/DataStructures/bin/Debug/net8.0/DataStructures
+/Users/andreasengly/Documents/Danmarks Tekniske Universitet/Portfolio for GitHub/C#/algorithms-and-data-structures/DataStructures/bin/Debug/net8.0/DataStructures.deps.json
+/Users/andreasengly/Documents/Danmarks Tekniske Universitet/Portfolio for GitHub/C#/algorithms-and-data-structures/DataStructures/bin/Debug/net8.0/DataStructures.runtimeconfig.json
+/Users/andreasengly/Documents/Danmarks Tekniske Universitet/Portfolio for GitHub/C#/algorithms-and-data-structures/DataStructures/bin/Debug/net8.0/DataStructures.dll
+/Users/andreasengly/Documents/Danmarks Tekniske Universitet/Portfolio for GitHub/C#/algorithms-and-data-structures/DataStructures/bin/Debug/net8.0/DataStructures.pdb
+/Users/andreasengly/Documents/Danmarks Tekniske Universitet/Portfolio for GitHub/C#/algorithms-and-data-structures/DataStructures/obj/Debug/net8.0/DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreasengly/Documents/Danmarks Tekniske Universitet/Portfolio for GitHub/C#/algorithms-and-data-structures/DataStructures/obj/Debug/net8.0/DataStructures.AssemblyInfoInputs.cache
+/Users/andreasengly/Documents/Danmarks Tekniske Universitet/Portfolio for GitHub/C#/algorithms-and-data-structures/DataStructures/obj/Debug/net8.0/DataStructures.AssemblyInfo.cs
+/Users/andreasengly/Documents/Danmarks Tekniske Universitet/Portfolio for GitHub/C#/algorithms-and-data-structures/DataStructures/obj/Debug/net8.0/DataStructures.csproj.CoreCompileInputs.cache
+/Users/andreasengly/Documents/Danmarks Tekniske Universitet/Portfolio for GitHub/C#/algorithms-and-data-structures/DataStructures/obj/Debug/net8.0/DataStructures.sourcelink.json
+/Users/andreasengly/Documents/Danmarks Tekniske Universitet/Portfolio for GitHub/C#/algorithms-and-data-structures/DataStructures/obj/Debug/net8.0/DataStructures.dll
+/Users/andreasengly/Documents/Danmarks Tekniske Universitet/Portfolio for GitHub/C#/algorithms-and-data-structures/DataStructures/obj/Debug/net8.0/refint/DataStructures.dll
+/Users/andreasengly/Documents/Danmarks Tekniske Universitet/Portfolio for GitHub/C#/algorithms-and-data-structures/DataStructures/obj/Debug/net8.0/DataStructures.pdb
+/Users/andreasengly/Documents/Danmarks Tekniske Universitet/Portfolio for GitHub/C#/algorithms-and-data-structures/DataStructures/obj/Debug/net8.0/DataStructures.genruntimeconfig.cache
+/Users/andreasengly/Documents/Danmarks Tekniske Universitet/Portfolio for GitHub/C#/algorithms-and-data-structures/DataStructures/obj/Debug/net8.0/ref/DataStructures.dll
